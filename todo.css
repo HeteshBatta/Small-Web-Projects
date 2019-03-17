@@ -1,0 +1,25 @@
+#task
+{
+  padding-left:100px;
+}
+#bi
+{
+  background : lightblue;
+  position : relative;
+  height:1000px;
+}
+  #btn
+  {
+  background : black;
+  color : white;
+  height : 20px;
+  width : 40px;
+  font-size:small;
+}
+#task
+{
+background : white;
+color : black;
+width : 250px;
+border-radius:25px;
+}
